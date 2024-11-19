@@ -78,33 +78,6 @@ The game ends when a player achieves checkmate by placing the opponent's King in
 5. **Continue Playing:**
     The game will alternate turns between the two players, displaying the updated board after each move.
 
-## Example of Gameplay
-
-Starting the game...
-Displaying board...
-R K B Q K B K R
-P P P P P P P P
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
-P P P P P P P P
-R K B Q K B K R
-White's turn.
-Enter source position (row col): 1 0
-Enter target position (row col): 2 0
-Displaying board...
-R K B Q K B K R
-. P P P P P P P
-P . . . . . . .
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
-P P P P P P P P
-R K B Q K B K R
-Black's turn.
-
-
 ## Conclusion
 
 This project aims to provide a basic but functional chess game that can be played through a command-line interface. It simulates all traditional chess rules, and includes special moves such as castling and pawn promotion. Players can enjoy a game of chess against each other by simply entering their moves as text.
